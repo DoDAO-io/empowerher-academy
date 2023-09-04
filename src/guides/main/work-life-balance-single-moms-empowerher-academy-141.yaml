@@ -1,0 +1,105 @@
+categories: []
+content: Empowering single moms to achieve a work-life balance
+created: '2023-09-04T18:33:40.360Z'
+guideType: onboarding
+key: work-life-balance-single-moms-empowerher-academy-141
+name: Work-Life Balance-Single Moms
+publishStatus: Live
+steps:
+  - content: >-
+      Being a single working mom comes with its own set of challenges,
+      especially when it comes to maintaining a work-life balance. Single
+      parenting is already a tough task, as it involves taking on all the
+      responsibilities of raising a child without the assistance of another
+      parent. This can often lead to feelings of despair and being overwhelmed. 
+
+
+      Raising children is a difficult task in itself, but having a partner by
+      your side can provide emotional support and make the journey a little
+      easier. However, single parents have to face the challenge of preparing
+      themselves to take on the responsibilities of raising a child alone. This
+      can lead to self-doubt and anxiety regarding the physical, emotional, and
+      financial demands of parenting.
+
+
+      One of the biggest challenges faced by single working moms is juggling
+      between work and household chores. They have to fulfill their professional
+      responsibilities at the workplace while also taking care of their child
+      and providing them with everything they need. This constant juggling can
+      be extremely stressful and put a significant amount of pressure on their
+      everyday lives. 
+
+
+      Another challenge is the conflict between work-related tasks and
+      child-caring duties. Single parents often struggle to meet the demands of
+      both, which can lead to feelings of guilt and inadequacy. They may have to
+      work excessively to provide for their children, which limits the amount of
+      time and energy they have each day. This can hinder their ability to
+      properly allocate their time between work, childcare, and their own
+      leisure.
+
+
+      Financial stability is also a major challenge for single working moms.
+      They not only have to provide for themselves but also ensure that they can
+      give their children the material goods they need and be emotionally and
+      socially present for them. This often means sacrificing their own leisure
+      time or losing crucial hours of sleep to spend more time with their
+      children.
+
+
+      Maintaining a work-life balance as a single working mom is no easy task.
+      It involves juggling between work and childcare responsibilities, dealing
+      with financial pressures, and managing the emotional challenges that come
+      with single parenthood. However, with proper time management, seeking
+      support when needed, and prioritizing their roles, single working moms can
+      effectively tackle these challenges and find a balance that works for them
+      and their children.
+    name: Single Working Moms' Challenges
+    stepItems: []
+    uuid: ca760ea9-92e4-42c1-8427-72e4a4070aad
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: Having too much leisure time
+            key: A
+          - content: Having a partner to share responsibilities
+            key: B
+          - content: Juggling between work and household chores
+            key: C
+          - content: Having too much sleep
+            key: D
+        content: What is one of the biggest challenges faced by single working moms?
+        type: SingleChoice
+        uuid: 53d4f41e-d1ee-4cc0-a11f-846e6745ac42
+        explanation: >-
+          One of the biggest challenges faced by single working moms is juggling
+          between work and household chores. They have to fulfill their
+          professional responsibilities at the workplace while also taking care
+          of their child and providing them with everything they need.
+      - answerKeys:
+          - B
+        choices:
+          - content: Having too much money
+            key: A
+          - content: Providing for themselves and their children
+            key: B
+          - content: Spending too much on leisure activities
+            key: C
+          - content: Saving too much money
+            key: D
+        content: What is a major challenge for single working moms in terms of finance?
+        type: SingleChoice
+        uuid: c97a66df-7094-46c7-8d26-1867a14f6617
+        explanation: >-
+          Financial stability is a major challenge for single working moms. They
+          not only have to provide for themselves but also ensure that they can
+          give their children the material goods they need and be emotionally
+          and socially present for them.
+    uuid: 65025a5e-dc46-41d8-8e67-5474f3a31f99
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+uuid: 6505dda7-92d3-4f05-893d-d2fa384bc212
+version: 1
