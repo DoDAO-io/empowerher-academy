@@ -1,0 +1,296 @@
+{
+  "categories": [],
+  "content": "A guide to help single moms decide to rent or buy a house ",
+  "created": "2023-09-05T13:08:20.325Z",
+  "guideType": "onboarding",
+  "key": "renting-vs-buying-a-house-empowerher-academy-212",
+  "name": "Renting vs Buying a House ",
+  "publishStatus": "Live",
+  "steps": [
+    {
+      "content": "The cost of buying a house has been steadily increasing over the past 20 years. The average home price in February 2022 reached over $800,000, a 20% increase from the previous year. Despite the high prices, many people still view housing as a wise investment. \n\n### Advantages of Buying \n\nUnlike renting, buying a house allows you to build equity and potentially see the value of your home grow over time. Additionally, there is no capital gains tax on your primary residence, providing a significant tax advantage compared to other investment vehicles.\n\nOwning a home also offers stability and protection against fluctuations in the housing market. Renters may face rent increases or even eviction due to renovations, while homeowners have more control over their living situation. Owning a home gives you the freedom to make changes and improvements without needing permission from a landlord. Furthermore, if your home increases in value, you will benefit from the capital gains when you decide to sell.\n\nBuilding equity is another advantage of homeownership. With each mortgage payment, you are gradually paying off your loan and increasing your ownership stake in the property. While the initial monthly payment may be higher than renting, a portion of it goes towards building equity, making it a long-term investment. Homeownership also provides a simple investment strategy, as property prices tend to be stable over time.\n\n### Disadvantages of Buying a House\n\nHowever, it's important to consider the drawbacks of buying a house. The upfront costs, including the down payment, mortgage, interest fees, and additional expenses like home inspections and legal fees, can be significant. These costs can make it challenging to afford other basic necessities and may exceed 35% of your budget, which is the recommended limit for housing costs. Selling a home can also be a time-consuming process, especially if the property is not in a desirable area or in good condition.\n\nHomeownership also comes with responsibilities and unexpected costs. Home maintenance and repairs, such as fixing a leaky roof or replacing a furnace, can be expensive and fall solely on the homeowner. Failure to handle these costs or missing mortgage payments can lead to foreclosure and damage your credit.",
+      "name": "Cost of Buying a House",
+      "stepItems": [],
+      "uuid": "37b4dfeb-789e-48f2-b9a6-fd5acb88f820"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "You can avoid paying any taxes",
+              "key": "A"
+            },
+            {
+              "content": "You can sell the house immediately for a profit",
+              "key": "B"
+            },
+            {
+              "content": "You can build equity and potentially see the value of your home grow over time",
+              "key": "C"
+            },
+            {
+              "content": "You can avoid any home maintenance and repair costs",
+              "key": "D"
+            }
+          ],
+          "content": "What is one advantage of buying a house?",
+          "type": "SingleChoice",
+          "uuid": "a8c2fd49-9601-446d-badf-d68db68bc9de",
+          "explanation": "Buying a house allows you to build equity and potentially see the value of your home grow over time. There is no capital gains tax on your primary residence, providing a significant tax advantage compared to other investment vehicles."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "You can't make any changes or improvements to the house",
+              "key": "A"
+            },
+            {
+              "content": "The upfront costs can be significant and make it challenging to afford other basic necessities",
+              "key": "B"
+            },
+            {
+              "content": "You have to pay capital gains tax on your primary residence",
+              "key": "C"
+            },
+            {
+              "content": "You can't sell the house if it increases in value",
+              "key": "D"
+            }
+          ],
+          "content": "What is a disadvantage of buying a house?",
+          "type": "SingleChoice",
+          "uuid": "4737db5c-21ea-474a-9a96-8c76c0b84b9e",
+          "explanation": "The upfront costs, including the down payment, mortgage, interest fees, and additional expenses like home inspections and legal fees, can be significant. These costs can make it challenging to afford other basic necessities and may exceed 35% of your budget."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "The value of your home decreases",
+              "key": "A"
+            },
+            {
+              "content": "You have to pay more in interest fees",
+              "key": "B"
+            },
+            {
+              "content": "You have to pay capital gains tax",
+              "key": "C"
+            },
+            {
+              "content": "You are gradually paying off your loan and increasing your ownership stake in the property",
+              "key": "D"
+            }
+          ],
+          "content": "What happens with each mortgage payment?",
+          "type": "SingleChoice",
+          "uuid": "5375c1ad-a525-48c7-8088-3fea6e932bdd",
+          "explanation": "With each mortgage payment, you are gradually paying off your loan and increasing your ownership stake in the property."
+        }
+      ],
+      "uuid": "cd21f67c-f02f-4eb7-a8f9-53ca3fea1bd6"
+    },
+    {
+      "content": "### Pros of Renting a Place\n\nRenting a house has its advantages when it comes to cost. Firstly, renting is generally cheaper than owning a home, especially in the short term. If your income is not high enough to afford a mortgage, renting is a more affordable option. It also allows you to have more disposable income to spend or invest. Additionally, renting frees you from the financial responsibilities of owning a home. The daily maintenance and upkeep of a home can be time-consuming and expensive, but when you rent, these responsibilities are transferred to your property manager or landlord.\n\nRenting also provides access to alternative investments. The money you save by renting can be invested in the stock market, your child's education, or starting a business. These investments have the potential to pay off even more than owning a home, if you work hard and are fortunate. Renting can be a smart move from a wealth accumulation perspective, as the costs of owning a home, such as property taxes, maintenance costs, and mortgage interest payments, can add up and be comparable to renting.\n\nMoreover, renting is a more accessible option compared to homeownership. The financial requirements for renting are less strict, and while a credit check may be required, it is not as stringent as when applying for a mortgage. Renting also offers the convenience of having certain expenses included in the rent, such as utilities and furnishings. This can make budgeting as a single mom easier and more affordable.\n\n### Cons of Renting a House\n\nHowever, there are some drawbacks to renting. One of the main disadvantages is that you do not build equity or wealth through renting. All the rent money you pay goes to your landlord instead of towards a mortgage. Additionally, you may face uncertainties such as rent increases, changes in ownership, or non-renewal of your lease. However, there are laws in place in to protect renters from such issues, and it is important to be aware of your rights as a tenant.\n\nThe cost of renting a house can be more affordable and flexible compared to owning a home. Renting allows for more disposable income, with drawbacks such as not building equity, instability and uncertainity. Ultimately, the decision to rent or own a home depends on individual circumstances and financial goals.",
+      "name": "Cost of Renting a House",
+      "stepItems": [],
+      "uuid": "1ea12038-0031-435b-a3ca-1e9c13f9a031"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "You build equity through renting",
+              "key": "A"
+            },
+            {
+              "content": "You are responsible for the daily maintenance and upkeep of the home",
+              "key": "B"
+            },
+            {
+              "content": "It is generally cheaper than owning a home and allows for more disposable income",
+              "key": "C"
+            },
+            {
+              "content": "You are responsible for property taxes",
+              "key": "D"
+            }
+          ],
+          "content": "What is one of the advantages of renting a house?",
+          "type": "SingleChoice",
+          "uuid": "dee6d510-34a1-46fe-9663-95de6153f04c",
+          "explanation": "Renting a house is generally cheaper than owning a home, especially in the short term. It allows for more disposable income to spend or invest and frees you from the financial responsibilities of owning a home."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "You have less disposable income",
+              "key": "A"
+            },
+            {
+              "content": "You do not build equity or wealth through renting",
+              "key": "B"
+            },
+            {
+              "content": "You are responsible for the daily maintenance and upkeep of the home",
+              "key": "C"
+            },
+            {
+              "content": "You are responsible for property taxes",
+              "key": "D"
+            }
+          ],
+          "content": "What is one of the disadvantages of renting a house?",
+          "type": "SingleChoice",
+          "uuid": "cbe44ada-2018-4c14-9f47-01381b257196",
+          "explanation": "One of the main disadvantages of renting is that you do not build equity or wealth through renting. All the rent money you pay goes to your landlord instead of towards a mortgage."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Paying property taxes",
+              "key": "A"
+            },
+            {
+              "content": "Paying for daily maintenance and upkeep of the home",
+              "key": "B"
+            },
+            {
+              "content": "Paying mortgage interest payments",
+              "key": "C"
+            },
+            {
+              "content": "Investing in the stock market, education, or starting a business",
+              "key": "D"
+            }
+          ],
+          "content": "What can the money saved by renting be used for?",
+          "type": "SingleChoice",
+          "uuid": "218a6887-25ac-4ef2-a539-d50fa989aebe",
+          "explanation": "The money you save by renting can be invested in the stock market, your child's education, or starting a business. These investments have the potential to pay off even more than owning a home."
+        }
+      ],
+      "uuid": "e7b31176-92e4-413a-8847-8c8b6cca8297"
+    },
+    {
+      "content": "When considering whether to rent or buy a home, there are several factors that you should take into account. \n\n### The 5% Rule\n\nOne important factor is the cost of owning a home. Many people underestimate the expenses associated with homeownership. The annual unrecoverable cost of owning a home is typically around 5% of the property value, regardless of whether you have a mortgage or not. If your rent is lower than this 5% for a comparable home, it may be more cost-effective to continue renting. On the other hand, if your rent is higher than 5%, it might be more beneficial to buy a comparable home.\n\n### Evaluate the Unrecoverable Cost\n\nAnother factor to consider is the total unrecoverable cost. This refers to the amount of money you pay for a property that doesn't result in residual value. When renting, the total unrecoverable cost is simply the amount of rent you pay. However, when you own a home, the total unrecoverable cost is more complex. It includes maintenance costs, property taxes, and the cost of credit. Maintenance costs and property taxes are typically around 1% of the home's value each year. The cost of credit, which can be the interest on your mortgage or the opportunity cost of investing in a home, is generally around 3%. Therefore, the total unrecoverable cost of owning a home should be around 5% of the property value each year.\n\n### Personal Circumstances \n\nYour lifestyle choices and future plans are also important factors to consider. If you expect to move frequently in the next few years, renting may be a better option for you. Renting provides flexibility and allows you to be more responsive to career opportunities or other life changes. On the other hand, if you value stability and the ability to renovate your home, buying may be more suitable for you. \nIt's important to note that there is no one-size-fits-all answer to the rent vs buy dilemma. It depends on your personal finances, the market where you live, and your individual preferences. If you're unsure about which option is best for you, it's a good idea to consult with a financial advisor or mortgage broker. They can provide personalized advice based on your specific circumstances and help you make an informed decision.",
+      "name": "Factors to Consider",
+      "stepItems": [],
+      "uuid": "cdac9231-bebe-4d4e-ad55-9fa77208d26a"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "The annual increase in property value",
+              "key": "A"
+            },
+            {
+              "content": "The annual mortgage payment",
+              "key": "B"
+            },
+            {
+              "content": "The annual unrecoverable cost of owning a home",
+              "key": "C"
+            },
+            {
+              "content": "The annual income tax deduction for homeowners",
+              "key": "D"
+            }
+          ],
+          "content": "What is the 5% rule in the context of home ownership?",
+          "type": "SingleChoice",
+          "uuid": "d1119136-434f-4388-8d20-c09b012592b6",
+          "explanation": "The 5% rule refers to the annual unrecoverable cost of owning a home, which is typically around 5% of the property value. This includes maintenance costs, property taxes, and the cost of credit."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "The total cost of the property",
+              "key": "A"
+            },
+            {
+              "content": "The total mortgage payment",
+              "key": "B"
+            },
+            {
+              "content": "The total cost of home insurance",
+              "key": "C"
+            },
+            {
+              "content": "The amount of money paid for a property that doesn't result in residual value",
+              "key": "D"
+            }
+          ],
+          "content": "What does the total unrecoverable cost refer to?",
+          "type": "SingleChoice",
+          "uuid": "6edd51bd-6f54-4390-a009-c93764e880cf",
+          "explanation": "The total unrecoverable cost refers to the amount of money you pay for a property that doesn't result in residual value. For renters, it's the rent paid. For homeowners, it includes maintenance costs, property taxes, and the cost of credit."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Renting is always cheaper than buying",
+              "key": "A"
+            },
+            {
+              "content": "Renting provides flexibility and allows for responsiveness to life changes",
+              "key": "B"
+            },
+            {
+              "content": "Renting allows for building equity",
+              "key": "C"
+            },
+            {
+              "content": "Renting eliminates the need for home maintenance",
+              "key": "D"
+            }
+          ],
+          "content": "Why might renting be a better option for individuals who expect to move frequently?",
+          "type": "SingleChoice",
+          "uuid": "71227b6c-6dee-492e-8d75-276b1d230ba4",
+          "explanation": "Renting provides flexibility and allows individuals to be more responsive to career opportunities or other life changes. It's typically easier and less costly to move from a rental than from a home you own."
+        }
+      ],
+      "uuid": "c4ac558d-df30-4fc0-bdac-8cbb6ef44d80"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "71b280e2-0cab-4a81-af4d-175c28731ad1",
+  "version": 1
+}
