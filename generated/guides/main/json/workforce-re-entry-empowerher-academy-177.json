@@ -1,0 +1,215 @@
+{
+  "categories": [],
+  "content": "A Guide to Successful Workforce Re-entry for Housewives",
+  "created": "2023-09-06T14:18:38.872Z",
+  "guideType": "onboarding",
+  "key": "workforce-re-entry-empowerher-academy-177",
+  "name": "Workforce Re-entry",
+  "publishStatus": "Live",
+  "steps": [
+    {
+      "content": "Workforce re-entry can be a challenging process, especially for women who have taken a break from their careers.These challenges highlight the need for more inclusive and flexible work environments that support women in resuming their careers and closing the gender gap in the workforce:\n\n### Staying Up-To-Date\nOne of the main challenges is keeping up with the rapidly evolving technologies. As the industry changes, companies prefer to hire individuals who are up-to-date with the latest advancements. Being professionally inactive during a break can put women at a disadvantage when it comes to securing a job.\n\n### Work-Life Balance\nAnother challenge faced by women re-entering the workforce is the difficulty of managing time and responsibilities. Newly married women or those embracing motherhood often struggle to balance their personal and professional lives. They may want to spend time with their partners or take care of their children, making it challenging to commit to a full-time job. Finding a company that understands and accommodates their needs, such as allowing flexible work arrangements, can be a challenge in itself.\n\n### Addressing Career Gap\nWhen applying for jobs, women may also face the challenge of explaining their career break. Companies are generally not concerned about the reasons behind the break, but if the explanation is not clear or convincing, it can impact their chances of getting hired. Additionally, even if they do secure a job, the salary offered may not meet their expectations. The gender pay gap has been a long-standing issue, and the pandemic has only exacerbated it, particularly in the tech industry where there is already a significant gender disparity.\n\n### Gender Bias\nGender bias is another challenge that women face in the labor market. Job ads often contain gender-coded words or language that reinforces gender stereotypes, which can discourage women from applying. This bias in the job search process further hinders women's re-entry into the workforce. Despite the growth of STEM occupations, women, especially those from Asian, Black, and Hispanic backgrounds, are underrepresented in technology positions.",
+      "name": "Workforce Re-entry Challenges",
+      "stepItems": [],
+      "uuid": "e568b29f-ba32-49e8-a120-834c2345dc10"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Finding a new hobby",
+              "key": "A"
+            },
+            {
+              "content": "Relocating to a new city",
+              "key": "B"
+            },
+            {
+              "content": "Staying up-to-date with rapidly evolving technologies",
+              "key": "C"
+            },
+            {
+              "content": "Learning a new language",
+              "key": "D"
+            }
+          ],
+          "content": "What is one of the main challenges faced by women re-entering the workforce after a career break?",
+          "type": "SingleChoice",
+          "uuid": "ba0c142f-2838-478a-9505-bb7f468d1d78",
+          "explanation": "Keeping up with the rapidly evolving technologies is one of the main challenges faced by women re-entering the workforce after a career break. Companies prefer to hire individuals who are up-to-date with the latest advancements."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Choosing the right outfit for the interview",
+              "key": "A"
+            },
+            {
+              "content": "Addressing the career gap",
+              "key": "B"
+            },
+            {
+              "content": "Deciding on the mode of transport to the interview",
+              "key": "C"
+            },
+            {
+              "content": "Finding a babysitter for the day of the interview",
+              "key": "D"
+            }
+          ],
+          "content": "What is a significant challenge faced by women when applying for jobs after a career break?",
+          "type": "SingleChoice",
+          "uuid": "d1a04891-a5cb-44d1-b13e-6a929e8196a4",
+          "explanation": "When applying for jobs, women may face the challenge of explaining their career break. If the explanation is not clear or convincing, it can impact their chances of getting hired."
+        }
+      ],
+      "uuid": "d13e957d-a8d6-484c-8289-12b32357e90d"
+    },
+    {
+      "content": "It is important for employers to recognize the value that working mothers bring to the workforce and provide them with the support they need to succeed both professionally and personally. By taking these measures, employers can attract and retain talented working mothers, leading to increased productivity, improved morale, and better outcomes in terms of the mental health of working moms: \n\n### Understanding the Needs of Working Mothers\nTo promote workforce re-entry, employers should start by asking employees who are mothers and parents about their experiences and what the company can do to support them. This feedback is crucial in identifying areas where improvements can be made. Additionally, reaching out to working mothers who have left the company can provide valuable insights into their reasons for leaving and what could have been done differently to retain them.\n\n### Promoting Job Opportunities\nSome companies have successfully promoted their job opportunities as a way for women to re-enter the workforce after having a gap in their resume. It is important for organizations to realize that resume gaps are bound to happen and should not be a reason to exclude someone from consideration. Employers who show empathy and understanding, and educate hiring managers and recruiters to look beyond resume gaps, will be more successful in bringing women back to work.\n\n### Offering Benefits\nEmployers can choose to offer various benefits to women rejoining the workforce. Backup childcare and paid time off for family leave are great starting points. However, to truly differentiate their offerings, employers should consider providing additional sick days for both children and self-care, as well as childcare or summer camp stipends. These benefits can help alleviate some of the time-consuming responsibilities that working mothers face and show support for their work-life balance.\n\n### Creating Flexible Work Environments\nAttracting and retaining women in the workforce requires more than just offering traditional nine-to-five work hours. Employers should provide flexibility in terms of reduced hours, four-day workweeks, or virtual work arrangements. As long as the work is done well, added flexibility should be part of the conversation and solution across roles and industries. It is important to recognize that working mothers are efficient in getting work done and should be compensated fairly based on their performance and work, not just their schedule or hours.\n\n### Creating a Supportive Culture\nIn addition to tangible benefits, it is crucial for organizations to create a culture that is supportive for women. Wellbeing initiatives and parent-friendly practices should not just be promoted on the company's careers site but should also be reflected in the behavior of managers and colleagues. ",
+      "name": "Employer Measures",
+      "stepItems": [],
+      "uuid": "5e279f02-8039-4f8c-9b12-228378072f13"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "By providing additional work hours",
+              "key": "A"
+            },
+            {
+              "content": "By increasing their workload",
+              "key": "B"
+            },
+            {
+              "content": "By offering benefits such as backup childcare and paid time off",
+              "key": "C"
+            },
+            {
+              "content": "By excluding them from team meetings",
+              "key": "D"
+            }
+          ],
+          "content": "What is one way employers can support working mothers re-entering the workforce?",
+          "type": "SingleChoice",
+          "uuid": "3abf6471-6aed-4def-b264-50a629ca5af4",
+          "explanation": "Employers can support working mothers by offering benefits such as backup childcare, paid time off for family leave, additional sick days, and childcare or summer camp stipends."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "By promoting only men to managerial positions",
+              "key": "A"
+            },
+            {
+              "content": "By promoting wellbeing initiatives and parent-friendly practices",
+              "key": "B"
+            },
+            {
+              "content": "By discouraging women from taking leadership roles",
+              "key": "C"
+            },
+            {
+              "content": "By not providing flexibility in work hours",
+              "key": "D"
+            }
+          ],
+          "content": "What is a crucial step for organizations to create a supportive culture for women?",
+          "type": "SingleChoice",
+          "uuid": "05b5e5f1-da49-485d-be0c-1a1f9f1002f2",
+          "explanation": "Creating a supportive culture for women involves not just promoting wellbeing initiatives and parent-friendly practices on the company's careers site, but also reflecting these practices in the behavior of managers and colleagues."
+        }
+      ],
+      "uuid": "6068e025-3634-48c6-b0b4-d768456c0097"
+    },
+    {
+      "content": "By following these tips, housewives looking to re-enter the workforce can navigate the job search process with confidence and increase their chances of finding a fulfilling role that aligns with their needs and goals:\n\n### Defining Career Goals\nBefore re-entering the workforce, it's important to have a clear understanding of what you're looking for in a job. Take the time to list out your needs and wishes, such as the type of role you're interested in, the level of growth and opportunities you desire, and the work-life balance you're seeking. This will help you narrow down your job search and focus on positions that align with your goals.\n\n### Consider a skills-based resume\nIf you have a long employment gap as a stay-at-home parent, it may be beneficial to use a skills-based resume instead of a chronological one. This type of resume highlights your skills and accomplishments rather than focusing on your work history. Be sure to include any important causes and accomplishments that showcase your strengths and make you stand out as a candidate.\n\n### Network and make connections\nNetworking is crucial when re-entering the workforce. Reach out to your existing network and renew connections with former colleagues or managers who may be able to offer advice, support, or even job opportunities. Don't be afraid to share your resume with friends, family, and former coworkers, and let them know your ideal position. You never know who might have valuable connections or insights that could help you in your job search.\n\n### Be confident and honest in interviews\nWhen it comes to interviews, be confident in your abilities and what you can offer as a candidate. Be honest about your employment gap as a stay-at-home parent, but keep your explanation brief and focus on your qualifications and enthusiasm to return to work. Emphasize your transferable skills and highlight any relevant projects or volunteer work you've done during your time away from the workforce. Practice your interviewing skills beforehand and be prepared to answer common questions about your career gap.\n\n### Create your own projects\nTo overcome portfolio gaps, consider creating your own projects that demonstrate your skills and value proposition. These can be personal projects, volunteer work, online courses, or anything else that showcases your initiative, creativity, and professionalism. Update your portfolio, resume, and social media profiles with fresh and relevant content from these projects to make yourself more marketable to potential employers.",
+      "name": "Tips for Workforce Re-entry",
+      "stepItems": [],
+      "uuid": "69b3f27e-b102-48ed-bc07-67a7ac44a79b"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Focusing on the employment gap in the resume",
+              "key": "A"
+            },
+            {
+              "content": "Using a skills-based resume",
+              "key": "B"
+            },
+            {
+              "content": "Ignoring the employment gap",
+              "key": "C"
+            },
+            {
+              "content": "Exaggerating about past work experience",
+              "key": "D"
+            }
+          ],
+          "content": "What is a beneficial approach for housewives with a long employment gap looking to re-enter the workforce?",
+          "type": "SingleChoice",
+          "uuid": "7bf4d4ac-ad9d-4349-bc84-1381af25f445",
+          "explanation": "A skills-based resume can be beneficial for those with a long employment gap as it highlights skills and accomplishments rather than focusing on work history."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Immediately applying for any available job",
+              "key": "A"
+            },
+            {
+              "content": "Ignoring your needs and wishes",
+              "key": "B"
+            },
+            {
+              "content": "Defining your career goals",
+              "key": "C"
+            },
+            {
+              "content": "Avoiding networking",
+              "key": "D"
+            }
+          ],
+          "content": "What is an important step before re-entering the workforce?",
+          "type": "SingleChoice",
+          "uuid": "e03c5529-b8be-4518-a3c6-9f7c6d4fe6a7",
+          "explanation": "Before re-entering the workforce, it's important to define your career goals. This includes understanding what type of role you're interested in, the level of growth and opportunities you desire, and the work-life balance you're seeking."
+        }
+      ],
+      "uuid": "d0861967-77a9-44b7-8b9a-bf4b62c7fe67"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/empowerher-academy/Guide/dd824219_f300_483d_81ab_9172aa37c301/1694006816534_undraw_projections_re_ulc6.png",
+  "uuid": "dd824219-f300-483d-81ab-9172aa37c301",
+  "version": 1
+}
