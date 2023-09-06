@@ -1,6 +1,6 @@
 categories: []
 content: Self-care on a Budget Tips for Single Moms
-created: '2023-09-05T13:10:49.107Z'
+created: '2023-09-06T13:00:43.025Z'
 guideType: onboarding
 key: self-care-on-budget-empowerher-academy-385
 name: Self-Care on Budget
@@ -51,6 +51,72 @@ steps:
     name: Importance of Self-care
     stepItems: []
     uuid: ad6ff681-9ec8-4550-8a05-d02061087075
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: It allows them to have more free time
+            key: A
+          - content: It helps them to be more productive at work
+            key: B
+          - content: >-
+              It helps them maintain stability and balance in their lives and
+              parent more effectively
+            key: C
+          - content: It helps them to make more friends
+            key: D
+        content: Why is self-care important for single parents?
+        type: SingleChoice
+        uuid: f7c122a5-b330-4ffc-86b3-acb6998a11b8
+        explanation: >-
+          Self-care allows single parents to recharge and rejuvenate themselves,
+          maintain stability and balance in their lives, and handle conflicts
+          and challenges in a healthy manner. It helps them to be on stable
+          ground and better equipped to meet the needs of their children.
+      - answerKeys:
+          - B
+        choices:
+          - content: Only taking care of their children's needs
+            key: A
+          - content: >-
+              Engaging in self-care activities, practicing positive self-talk,
+              and acknowledging their own needs
+            key: B
+          - content: Ignoring their own needs and focusing only on their children
+            key: C
+          - content: Spending all their time on work and household responsibilities
+            key: D
+        content: What does self-care involve for single parents?
+        type: SingleChoice
+        uuid: 7939b18f-351f-47ca-bcba-0d394a48471c
+        explanation: >-
+          Self-care for single parents involves regularly engaging in activities
+          that promote self-care, practicing positive self-talk, being kind to
+          oneself, and acknowledging their own needs.
+      - answerKeys:
+          - D
+        choices:
+          - content: Yes, it takes time away from their children
+            key: A
+          - content: Yes, it is a luxury that single parents cannot afford
+            key: B
+          - content: Yes, it is a sign of weakness
+            key: C
+          - content: >-
+              No, it is a vital component of maintaining a healthy and balanced
+              family dynamic
+            key: D
+        content: Is self-care a selfish act for single parents?
+        type: SingleChoice
+        uuid: 287f111e-b936-4b74-b2e6-2b004023b4bd
+        explanation: >-
+          Self-care is not a selfish act; it is a vital component of maintaining
+          a healthy and balanced family dynamic. By taking care of themselves,
+          single parents can ensure that they are able to give their children
+          the love, support, and attention they deserve.
+    uuid: f9b2f16a-3335-4483-b495-62408dd8f270
   - content: >
       Self-care is often associated with expensive spa treatments and shopping
       sprees, but it doesn't have to be that way. Even if you're on a tight
@@ -120,6 +186,67 @@ steps:
     name: Self-care on a Budget
     stepItems: []
     uuid: becd26a4-ad90-4e38-b490-dff1c92d7028
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - B
+        choices:
+          - content: Going on shopping sprees
+            key: A
+          - content: Exercise
+            key: B
+          - content: Visiting expensive spas
+            key: C
+          - content: Eating out at restaurants
+            key: D
+        content: >-
+          What is one of the simplest and most effective forms of self-care
+          according to the text?
+        type: SingleChoice
+        uuid: dac94580-664c-4c6f-a4d8-365f43c18a84
+        explanation: >-
+          The text mentions that one of the simplest and most effective forms of
+          self-care is exercise.
+      - answerKeys:
+          - C
+        choices:
+          - content: Posting more frequently
+            key: A
+          - content: Spending more time on social media
+            key: B
+          - content: >-
+              Unfollowing accounts that make you feel bad and following those
+              that inspire you
+            key: C
+          - content: Adding more friends on social media
+            key: D
+        content: What is a suggested method of self-care in relation to social media?
+        type: SingleChoice
+        uuid: a2b437d4-d3fb-4502-8e90-2db1fdcca71b
+        explanation: >-
+          The text suggests taking control of your online experience by
+          unfollowing accounts that make you feel bad about yourself and
+          following those that inspire and uplift you.
+      - answerKeys:
+          - D
+        choices:
+          - content: It is always expensive
+            key: A
+          - content: It is only for those who can afford it
+            key: B
+          - content: It requires a lot of money
+            key: C
+          - content: It doesn't have to be expensive
+            key: D
+        content: What does the text suggest about the cost of self-care?
+        type: SingleChoice
+        uuid: c6645230-df79-4941-8e1b-63233b8ba4ae
+        explanation: >-
+          The text suggests that self-care doesn't have to be expensive and
+          there are many affordable activities that can be incorporated into
+          your routine.
+    uuid: 01f38542-9e69-4718-a21c-2a4e7a1447eb
   - content: >+
       In today's fast-paced world, it's easy to get caught up in the demands of
       being a parent and forget to take care of yourself. However, it's
@@ -174,6 +301,62 @@ steps:
     name: Unwind Yourself
     stepItems: []
     uuid: b788ce64-a01b-456d-90da-5dd02e1fb2aa
+  - content: ''
+    name: Evaluation
+    stepItems:
+      - answerKeys:
+          - C
+        choices:
+          - content: To keep them busy
+            key: A
+          - content: To make them disciplined
+            key: B
+          - content: To create harmony and calm in your home and make time for yourself
+            key: C
+          - content: To make them learn the concept of time
+            key: D
+        content: What is the purpose of establishing a routine for your children?
+        type: SingleChoice
+        uuid: b7138b6c-4106-48a9-bc31-2ea6a913eb0f
+        explanation: >-
+          Establishing a routine for your children creates harmony and calm in
+          your home and gives you the opportunity to create space and time for
+          yourself.
+      - answerKeys:
+          - B
+        choices:
+          - content: To save money
+            key: A
+          - content: To save time and make more time for yourself
+            key: B
+          - content: To eat healthy
+            key: C
+          - content: To learn new recipes
+            key: D
+        content: What is the benefit of simplifying your meals?
+        type: SingleChoice
+        uuid: 0d00bbce-fc47-48ec-ac8d-ec09c60c2cb3
+        explanation: >-
+          By simplifying your meals, you can save time and guiltlessly make more
+          time for yourself.
+      - answerKeys:
+          - D
+        choices:
+          - content: To look good
+            key: A
+          - content: To feel pampered
+            key: B
+          - content: To sleep better
+            key: C
+          - content: To recharge and rejuvenate
+            key: D
+        content: What is the importance of a self-care ritual after a long day?
+        type: SingleChoice
+        uuid: cc8df3fc-6439-4f8a-bc2f-8b31545bb21e
+        explanation: >-
+          Self-care rituals help us recharge and rejuvenate. It is essential to
+          detox your mind by writing it all down.
+    uuid: d3d6c624-7af5-4af2-a2e6-9c93ca3e2c0f
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/empowerher-academy/Guide/self_care_on_budget_empowerher_academy_385/1693919444351_undraw_love_it_0v4l.png
 uuid: self-care-on-budget-empowerher-academy-385
