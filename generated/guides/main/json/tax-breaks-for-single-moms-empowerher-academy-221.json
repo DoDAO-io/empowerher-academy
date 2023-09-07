@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "A walk through the tax breaks for single moms",
-  "created": "2023-09-06T14:47:57.654Z",
+  "created": "2023-09-07T18:57:28.491Z",
   "guideType": "onboarding",
   "key": "tax-breaks-for-single-moms-empowerher-academy-221",
   "name": "Tax Breaks for Single Moms",
@@ -16,7 +16,89 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "The single parent must have less than 50% custody of the child",
+              "key": "A"
+            },
+            {
+              "content": "The single parent must have their child live with them for more than six months of the year and have more than 50% custody of the child",
+              "key": "B"
+            },
+            {
+              "content": "The single parent must have their child live with them for less than six months of the year",
+              "key": "C"
+            },
+            {
+              "content": "The single parent must have equal custody of the child with the other parent",
+              "key": "D"
+            }
+          ],
+          "content": "What is the requirement for a single parent to qualify as head of household for tax purposes?",
+          "type": "SingleChoice",
+          "uuid": "3834b8ce-deab-4875-90d3-34dbb13342d5",
+          "explanation": "To qualify as head of household, a single parent must have their child live with them for more than six months of the year, not including the time the child spends at school. Additionally, the single parent must have more than 50% custody of the child."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "A tax break for single parents who make more than $200,000",
+              "key": "A"
+            },
+            {
+              "content": "A tax break for parents with children over 17 years old",
+              "key": "B"
+            },
+            {
+              "content": "A tax break for parents with children who are not U.S. residents",
+              "key": "C"
+            },
+            {
+              "content": "A tax break for single parents who make less than $200,000, with children under 17 years old and are U.S. residents",
+              "key": "D"
+            }
+          ],
+          "content": "What is the child tax credit?",
+          "type": "SingleChoice",
+          "uuid": "005cc5f7-ee15-4194-940e-c0f6d4135d48",
+          "explanation": "The child tax credit is a tax break for single parents who make less than $200,000 ($400,000 if married, filing jointly). To qualify, the child must have been under 17 years old at the end of the tax year and be a U.S. resident. Claiming the child tax credit can decrease your taxes by $2,000 per qualifying child."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "The Child Tax Credit",
+              "key": "A"
+            },
+            {
+              "content": "The Dependent Care Credit",
+              "key": "B"
+            },
+            {
+              "content": "The American Opportunity Tax Credit and the Lifetime Learning Credit",
+              "key": "C"
+            },
+            {
+              "content": "The Head of Household Credit",
+              "key": "D"
+            }
+          ],
+          "content": "What can help defray the cost of post-secondary education for single parents?",
+          "type": "SingleChoice",
+          "uuid": "cb95b7df-aea3-4ee0-a480-af1e72f73571",
+          "explanation": "The American Opportunity Tax Credit and the Lifetime Learning Credit can help defray the cost of post-secondary education. Single parents who are paying for college or other post-secondary education for their children might be eligible to claim these credits."
+        }
+      ],
       "uuid": "f3815465-efa3-4890-84c0-2c2eb52eadf2"
     },
     {
@@ -28,7 +110,89 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "10%",
+              "key": "A"
+            },
+            {
+              "content": "37%",
+              "key": "B"
+            },
+            {
+              "content": "25%",
+              "key": "C"
+            },
+            {
+              "content": "30%",
+              "key": "D"
+            }
+          ],
+          "content": "What is the tax rate for single parents filing as head of household with income beyond $539,900 in the 2022 tax year?",
+          "type": "SingleChoice",
+          "uuid": "348aa919-59bd-451d-9e71-33b99288b1f9",
+          "explanation": "For the 2022 tax year, single parents filing as head of household will pay a top tax bracket rate of 37% for income beyond $539,900."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "A tax credit for high-income individuals",
+              "key": "A"
+            },
+            {
+              "content": "A tax credit for businesses",
+              "key": "B"
+            },
+            {
+              "content": "A non-refundable tax credit",
+              "key": "C"
+            },
+            {
+              "content": "A refundable tax credit for low- to moderate-income individuals and families",
+              "key": "D"
+            }
+          ],
+          "content": "What is the Earned Income Tax Credit (EITC)?",
+          "type": "SingleChoice",
+          "uuid": "449722b5-182f-4564-9f32-c0b340a1d21b",
+          "explanation": "The EITC is a refundable tax credit designed to help low- to moderate-income individuals and families. If the credit exceeds the amount of taxes owed, the excess amount is refunded to the taxpayer."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "$1,000 per eligible child",
+              "key": "A"
+            },
+            {
+              "content": "$500 per eligible child",
+              "key": "B"
+            },
+            {
+              "content": "$2,000 per eligible child",
+              "key": "C"
+            },
+            {
+              "content": "$1,500 per eligible child",
+              "key": "D"
+            }
+          ],
+          "content": "What is the Child Tax Credit as per the Tax Cuts and Jobs Act of 2018?",
+          "type": "SingleChoice",
+          "uuid": "9c44c720-acfb-4232-9a6b-47db81a8ccc4",
+          "explanation": "The Tax Cuts and Jobs Act of 2018 doubled the Child Tax Credit to $2,000 per eligible child. Families whose credit exceeds their tax liability can receive the remainder of the credit as a refund."
+        }
+      ],
       "uuid": "479483b7-36cb-44cc-a17a-e8e60b97da46"
     },
     {
@@ -40,11 +204,93 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "A"
+          ],
+          "choices": [
+            {
+              "content": "A tax-free monthly payment that helps eligible families with the cost of raising children",
+              "key": "A"
+            },
+            {
+              "content": "A tax-free monthly payment for all families",
+              "key": "B"
+            },
+            {
+              "content": "A tax-free monthly payment for single parents only",
+              "key": "C"
+            },
+            {
+              "content": "A tax-free monthly payment for elderly people",
+              "key": "D"
+            }
+          ],
+          "content": "What is the Canada child benefit (CCB)?",
+          "type": "SingleChoice",
+          "uuid": "8e277a03-8aa0-47f7-8cb5-425660ddc277",
+          "explanation": "The Canada child benefit (CCB) is a tax-free monthly payment that helps eligible families with the cost of raising children."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To provide a monthly payment for all families",
+              "key": "A"
+            },
+            {
+              "content": "To provide a monthly payment for single parents only",
+              "key": "B"
+            },
+            {
+              "content": "To allow parents and relatives to contribute money towards a child's future educational needs",
+              "key": "C"
+            },
+            {
+              "content": "To provide a monthly payment for elderly people",
+              "key": "D"
+            }
+          ],
+          "content": "What is the purpose of the Canadian Education Savings Grant (CESG)?",
+          "type": "SingleChoice",
+          "uuid": "406f453c-b65b-4fb2-bfd8-cb7868978d4a",
+          "explanation": "The Canadian Education Savings Grant (CESG) for Registered Education Savings Plans (RESP) allows parents and relatives to contribute money towards a child's future educational needs, with the government offering a matching grant of up to 20% of the contributed amount."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Ignore any changes in their marital status",
+              "key": "A"
+            },
+            {
+              "content": "Avoid notifying the Canada Revenue Agency (CRA) of any changes",
+              "key": "B"
+            },
+            {
+              "content": "Avoid using tax forms",
+              "key": "C"
+            },
+            {
+              "content": "Update their marital status, notify the CRA of any changes, and use tax forms to deduct childcare expenses",
+              "key": "D"
+            }
+          ],
+          "content": "What can parents do to ensure they receive the maximum benefits they are entitled to?",
+          "type": "SingleChoice",
+          "uuid": "14221e5e-dec7-4ca8-b80d-11aca5018dc0",
+          "explanation": "To ensure maximum benefits, it's important for parents to update their marital status and notify the Canada Revenue Agency (CRA) of any changes. Additionally, parents can use tax forms such as T1213 to deduct childcare expenses and reduce their income tax deduction."
+        }
+      ],
       "uuid": "9f919dc7-a678-4867-bcef-264c7a0b9670"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/empowerher-academy/Guide/021b8ecc_f64f_4946_a911_7c2cedf8043c/1694006957033_undraw_exams_re_4ios.png",
-  "uuid": "021b8ecc-f64f-4946-a911-7c2cedf8043c",
+  "uuid": "tax-breaks-for-single-moms-empowerher-academy-221",
   "version": 1
 }
