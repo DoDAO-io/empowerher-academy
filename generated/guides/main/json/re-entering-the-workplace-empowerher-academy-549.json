@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "Tips To Re-entering Workplace",
-  "created": "2023-09-07T14:01:28.955Z",
+  "created": "2023-09-07T19:09:59.379Z",
   "guideType": "onboarding",
   "key": "re-entering-the-workplace-empowerher-academy-549",
   "name": "Re-entering the Workplace",
@@ -18,39 +18,85 @@
       "name": "Evaluation",
       "stepItems": [
         {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "df393ff0-63d0-4775-ad13-efb37dd52d8b"
-        },
-        {
           "answerKeys": [
-            "choice_1",
-            "choice_2",
-            "choice_3"
+            "C"
           ],
           "choices": [
             {
-              "content": "Choice 1",
-              "key": "choice_1"
+              "content": "Having too many job offers",
+              "key": "A"
             },
             {
-              "content": "Choice 2",
-              "key": "choice_2"
+              "content": "Being overqualified for available positions",
+              "key": "B"
             },
             {
-              "content": "Choice 3",
-              "key": "choice_3"
+              "content": "Needing to catch up on industry changes and advancements",
+              "key": "C"
             },
             {
-              "content": "Choice 4",
-              "key": "choice_4"
+              "content": "Having too much free time",
+              "key": "D"
             }
           ],
-          "content": "Contents of the question",
-          "type": "MultipleChoice",
-          "uuid": "831472dc-5854-4030-b249-1e649c0d2fce",
-          "explanation": "Explanation of the question"
+          "content": "What is a common challenge when returning to the workforce after a long absence?",
+          "type": "SingleChoice",
+          "uuid": "6dd85aaf-715c-4d25-8022-7ef2b4c7dda3",
+          "explanation": "One common challenge when returning to the workforce after a long absence is the need to catch up on industry changes and advancements."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Ignoring the gap in employment history",
+              "key": "A"
+            },
+            {
+              "content": "Highlighting relevant experiences or skills gained during the time away",
+              "key": "B"
+            },
+            {
+              "content": "Listing all the hobbies",
+              "key": "C"
+            },
+            {
+              "content": "Exaggerating previous job titles",
+              "key": "D"
+            }
+          ],
+          "content": "What can help alleviate potential employers' concerns about a long absence on your resume?",
+          "type": "SingleChoice",
+          "uuid": "456bf5f4-29d5-4dcd-8328-99fd47fa3635",
+          "explanation": "Highlighting any relevant experiences or skills gained during the time away, such as volunteering or freelancing, can help alleviate potential employers' concerns about a long absence on the resume."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Hiding your age",
+              "key": "A"
+            },
+            {
+              "content": "Complaining about age discrimination",
+              "key": "B"
+            },
+            {
+              "content": "Refusing to learn new technologies",
+              "key": "C"
+            },
+            {
+              "content": "Overcoming self-doubt and building confidence in your abilities",
+              "key": "D"
+            }
+          ],
+          "content": "What is crucial in addressing the challenge of age discrimination when returning to the workforce?",
+          "type": "SingleChoice",
+          "uuid": "ffe6f619-088b-4f22-8cb1-bc9d953aa77c",
+          "explanation": "Overcoming self-doubt and building confidence in one's abilities is crucial in addressing the challenge of age discrimination when returning to the workforce."
         }
       ],
       "uuid": "ef47f6e9-ac8b-44b1-86ec-8108642d222c"
@@ -158,11 +204,66 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To pass the time",
+              "key": "A"
+            },
+            {
+              "content": "To impress friends",
+              "key": "B"
+            },
+            {
+              "content": "For smoother transition and quicker adaptation to the work environment",
+              "key": "C"
+            },
+            {
+              "content": "None of the above",
+              "key": "D"
+            }
+          ],
+          "content": "Why is preparation crucial before entering the workforce?",
+          "type": "SingleChoice",
+          "uuid": "44a633b1-1cb2-4737-9d1b-679c05c472d1",
+          "explanation": "Preparation before entering the workforce allows for a smoother transition and quicker adaptation to the work environment and colleagues. It also increases the chances of success and adaptability in the new work environment."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Ignoring your network",
+              "key": "A"
+            },
+            {
+              "content": "Building skills and staying connected with your network",
+              "key": "B"
+            },
+            {
+              "content": "Taking a longer break",
+              "key": "C"
+            },
+            {
+              "content": "Not taking on any projects",
+              "key": "D"
+            }
+          ],
+          "content": "What can enhance your employability after a long absence from work?",
+          "type": "SingleChoice",
+          "uuid": "d30deab6-ece6-4663-9512-24fbc23250e2",
+          "explanation": "Building skills, staying connected with your network, and taking on projects during your absence can enhance your employability and make the transition back to work easier."
+        }
+      ],
       "uuid": "7167cf95-0158-40a9-9867-ab24e160b9be"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/empowerher-academy/Guide/e7a4bdd1_02dd_4b21_ba4d_04286fb9774f/1694093096072_undraw_learning_sketching_nd4f.png",
-  "uuid": "e7a4bdd1-02dd-4b21-ba4d-04286fb9774f",
+  "uuid": "re-entering-the-workplace-empowerher-academy-549",
   "version": 1
 }
