@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "How to reduce financial dependence on your partner ",
-  "created": "2023-09-06T15:38:55.268Z",
+  "created": "2023-09-07T19:06:23.351Z",
   "guideType": "onboarding",
   "key": "financial-independence-for-women-empowerher-academy-883",
   "name": "Financial Independence for Women",
@@ -16,7 +16,89 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Merging their assets with their husbands",
+              "key": "A"
+            },
+            {
+              "content": "Promoting financial secrecy within a relationship",
+              "key": "B"
+            },
+            {
+              "content": "Being able to pay for their own living expenses without being dependent on others",
+              "key": "C"
+            },
+            {
+              "content": "Leaving their jobs after marriage",
+              "key": "D"
+            }
+          ],
+          "content": "What does financial independence mean for women?",
+          "type": "SingleChoice",
+          "uuid": "8cfdc012-6076-46ee-9dc7-6f6322a5380e",
+          "explanation": "Financial independence for women means being able to pay for their own living expenses without being dependent on others. It is about encouraging financial freedom and autonomy."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Women learning about investing and budgeting",
+              "key": "A"
+            },
+            {
+              "content": "Women not having their own financial lives and independence in marriage",
+              "key": "B"
+            },
+            {
+              "content": "Women setting their own financial goals and strategies",
+              "key": "C"
+            },
+            {
+              "content": "Women being encouraged to pursue their dreams",
+              "key": "D"
+            }
+          ],
+          "content": "What can lead to an imbalanced relationship in terms of finances?",
+          "type": "SingleChoice",
+          "uuid": "da8c49f6-48fd-492f-b530-64b4c73d785a",
+          "explanation": "When women do not have their own financial lives and independence in marriage, it can lead to an imbalanced relationship."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Merging their wealth with their husbands",
+              "key": "A"
+            },
+            {
+              "content": "Leaving their jobs after marriage",
+              "key": "B"
+            },
+            {
+              "content": "Promoting financial secrecy within a relationship",
+              "key": "C"
+            },
+            {
+              "content": "Achieving financial independence",
+              "key": "D"
+            }
+          ],
+          "content": "What is a significant goal for every woman, regardless of their marital status?",
+          "type": "SingleChoice",
+          "uuid": "98f9f248-61ad-4839-9a65-af8182810eca",
+          "explanation": "Financial independence is a significant goal for every woman, regardless of their marital status. It means being self-reliant and providing for one's own family and needs."
+        }
+      ],
       "uuid": "9afa605d-23ec-47ef-b721-aa33747fcafe"
     },
     {
@@ -28,7 +110,89 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "It promotes equality in a relationship",
+              "key": "A"
+            },
+            {
+              "content": "It fosters financial stability",
+              "key": "B"
+            },
+            {
+              "content": "It can create a power imbalance in a relationship",
+              "key": "C"
+            },
+            {
+              "content": "It encourages financial independence",
+              "key": "D"
+            }
+          ],
+          "content": "What is a significant disadvantage of financial dependence?",
+          "type": "SingleChoice",
+          "uuid": "79f4e482-b6a9-489d-b4ac-88a0859e6db3",
+          "explanation": "A significant disadvantage of financial dependence is the power asymmetry it can create in a relationship, leading to feelings of guilt, contention, and a lack of fulfillment."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "It creates a power imbalance",
+              "key": "A"
+            },
+            {
+              "content": "It provides stability and reduces financial stress",
+              "key": "B"
+            },
+            {
+              "content": "It leads to financial dependence",
+              "key": "C"
+            },
+            {
+              "content": "It promotes financial vulnerability",
+              "key": "D"
+            }
+          ],
+          "content": "Why is financial independence beneficial in a relationship?",
+          "type": "SingleChoice",
+          "uuid": "65fbea78-00c5-4e5f-895f-a63ff90c9682",
+          "explanation": "Financial independence can be beneficial in a relationship as it provides stability, reduces financial stress, fosters a sense of equality and allows both individuals to pursue their dreams and interests more freely."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "It promotes healthy dynamics in the relationship",
+              "key": "A"
+            },
+            {
+              "content": "It encourages financial independence",
+              "key": "B"
+            },
+            {
+              "content": "It reduces financial stress",
+              "key": "C"
+            },
+            {
+              "content": "It can make it difficult to leave the relationship",
+              "key": "D"
+            }
+          ],
+          "content": "What can financial dependence lead to in an unhealthy relationship?",
+          "type": "SingleChoice",
+          "uuid": "f110a30b-b44d-4799-8293-fd5126826c45",
+          "explanation": "Financial dependence can make it difficult for someone to leave an unhealthy relationship as they may feel trapped due to lack of support or savings of their own."
+        }
+      ],
       "uuid": "fd9a8116-41b7-4df1-bb38-d297852e11e3"
     },
     {
@@ -40,11 +204,93 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "To avoid disagreements on shopping",
+              "key": "A"
+            },
+            {
+              "content": "To decide who will pay the bills",
+              "key": "B"
+            },
+            {
+              "content": "To understand the reasoning behind your partner's financial decisions",
+              "key": "C"
+            },
+            {
+              "content": "To decide who will handle the household chores",
+              "key": "D"
+            }
+          ],
+          "content": "Why is it important to discuss finances in a married life?",
+          "type": "SingleChoice",
+          "uuid": "3ea55853-9efc-4510-ba44-14f1b4dea083",
+          "explanation": "Understanding each other's financial background and experiences can help you better understand the reasoning behind your partner's financial decisions. This knowledge can lead to more empathy and prevent resentment or disagreements in the future."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "To decide who will take care of the children",
+              "key": "A"
+            },
+            {
+              "content": "To ensure fair allocations of wealth in case of divorce",
+              "key": "B"
+            },
+            {
+              "content": "To decide who will do the household chores",
+              "key": "C"
+            },
+            {
+              "content": "To decide who will pay the bills",
+              "key": "D"
+            }
+          ],
+          "content": "What is the purpose of a prenuptial agreement?",
+          "type": "SingleChoice",
+          "uuid": "3a30a1b4-02d5-4ba3-9e4f-627543cb8c05",
+          "explanation": "A prenup can protect your future children, your business, and ensure fair allocations of wealth in case of divorce."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "To avoid disagreements on shopping",
+              "key": "A"
+            },
+            {
+              "content": "To decide who will pay the bills",
+              "key": "B"
+            },
+            {
+              "content": "To decide who will handle the household chores",
+              "key": "C"
+            },
+            {
+              "content": "To have financial security and autonomy within the marriage",
+              "key": "D"
+            }
+          ],
+          "content": "Why is it crucial to maintain separate bank accounts in a marriage?",
+          "type": "SingleChoice",
+          "uuid": "85657814-1d3b-4579-a3be-2cfb7fb2228d",
+          "explanation": "Having your own account that you control gives you financial independence and allows you to build your credit score. This way, you have financial security and autonomy within your marriage."
+        }
+      ],
       "uuid": "02c1d220-4d74-418b-a1b8-2fe5bf7bcecd"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/empowerher-academy/Guide/306f4510_8863_453b_8f87_b4283a3f942f/1694013253216_undraw_in_love_6sq2.png",
-  "uuid": "306f4510-8863-453b-8f87-b4283a3f942f",
+  "uuid": "financial-independence-for-women-empowerher-academy-883",
   "version": 1
 }
