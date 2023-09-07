@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "A Guide to Car Maintenance for Women",
-  "created": "2023-09-06T15:11:48.863Z",
+  "created": "2023-09-07T19:01:48.241Z",
   "guideType": "onboarding",
   "key": "car-maintenance-empowerher-academy-449",
   "name": "Car Maintenance ",
@@ -16,7 +16,89 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "To make the car look good",
+              "key": "A"
+            },
+            {
+              "content": "For preventing safety issues, maintaining vehicle performance, and saving money",
+              "key": "B"
+            },
+            {
+              "content": "To increase the resale value of the car",
+              "key": "C"
+            },
+            {
+              "content": "To impress friends and family",
+              "key": "D"
+            }
+          ],
+          "content": "Why is regular car maintenance essential?",
+          "type": "SingleChoice",
+          "uuid": "238e6945-186e-454c-8bf5-d962545ccbd7",
+          "explanation": "Regular car maintenance is essential for preventing safety issues, maintaining vehicle performance, and saving money in the long run."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Books and magazines",
+              "key": "A"
+            },
+            {
+              "content": "Snacks and beverages",
+              "key": "B"
+            },
+            {
+              "content": "Extra clothes and shoes",
+              "key": "C"
+            },
+            {
+              "content": "A first aid kit, jumper cables, basic tools, a flashlight, duct tape, and nonperishable food and water",
+              "key": "D"
+            }
+          ],
+          "content": "What should be included in the car's emergency kit?",
+          "type": "SingleChoice",
+          "uuid": "73ef7f6d-cd70-46a0-b193-2b3d148f01d4",
+          "explanation": "The emergency kit should include items such as a first aid kit, jumper cables, basic tools, a flashlight, duct tape, and nonperishable food and water."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Spend money only when the car breaks down",
+              "key": "A"
+            },
+            {
+              "content": "Ignore minor issues to save money",
+              "key": "B"
+            },
+            {
+              "content": "Set aside money for regular maintenance and unexpected repairs",
+              "key": "C"
+            },
+            {
+              "content": "Use credit cards for all car maintenance expenses",
+              "key": "D"
+            }
+          ],
+          "content": "What is a good practice when it comes to budgeting for car maintenance?",
+          "type": "SingleChoice",
+          "uuid": "b60232ce-701a-42ba-92fc-1e2188d45a72",
+          "explanation": "It's important to set aside money for regular maintenance and unexpected repairs. This will help you avoid financial stress when your car needs repairs and ensure that you can afford necessary maintenance to keep your car running smoothly."
+        }
+      ],
       "uuid": "064fac85-09e2-4ae4-86ec-7cd9180ccf3d"
     },
     {
@@ -28,7 +110,89 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Ignoring the condition of your car",
+              "key": "A"
+            },
+            {
+              "content": "Assessing the wear and tear on your vehicle",
+              "key": "B"
+            },
+            {
+              "content": "Only considering the costs of fuel and insurance",
+              "key": "C"
+            },
+            {
+              "content": "Not saving any money for unexpected expenses",
+              "key": "D"
+            }
+          ],
+          "content": "What is a smart tip for budgeting for car maintenance?",
+          "type": "SingleChoice",
+          "uuid": "f9944c39-2387-46a6-aea4-b6a434bccbb7",
+          "explanation": "One smart tip for budgeting for car maintenance is to assess the wear and tear on your vehicle. By taking the amount you spent on maintenance over the past year and dividing it by 12, you can estimate how much to save each month."
+        },
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "It increases the value of your car",
+              "key": "A"
+            },
+            {
+              "content": "It improves the fuel efficiency of your car",
+              "key": "B"
+            },
+            {
+              "content": "It helps identify and address small issues before they turn into big problems",
+              "key": "C"
+            },
+            {
+              "content": "It makes your car look more attractive",
+              "key": "D"
+            }
+          ],
+          "content": "What is the benefit of regularly inspecting your vehicle's condition?",
+          "type": "SingleChoice",
+          "uuid": "97215d0b-1cfb-425d-9107-b8c1cc25768c",
+          "explanation": "By keeping a close eye on things like tyre pressure, fluid levels, headlights, and brake lights, you can identify and address small issues before they turn into big problems. This can save you money in the long run by preventing costly repairs."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "It allows you to buy any car part for free",
+              "key": "A"
+            },
+            {
+              "content": "It gives you a discount on fuel",
+              "key": "B"
+            },
+            {
+              "content": "It provides free car insurance",
+              "key": "C"
+            },
+            {
+              "content": "It allows you to manage your car maintenance expenses more effectively",
+              "key": "D"
+            }
+          ],
+          "content": "What is the advantage of having a store card?",
+          "type": "SingleChoice",
+          "uuid": "49904d68-1c0e-4513-bd20-80371f86d22b",
+          "explanation": "With a store card, you can enjoy up to 55 days interest-free on each purchase, allowing you to manage your car maintenance expenses more effectively."
+        }
+      ],
       "uuid": "10fd46af-b555-47b0-b8d7-784eb950f42e"
     },
     {
@@ -40,11 +204,93 @@
     {
       "content": "",
       "name": "Evaluation",
-      "stepItems": [],
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Your car has a new paint job",
+              "key": "A"
+            },
+            {
+              "content": "Your car has a full tank of gas",
+              "key": "B"
+            },
+            {
+              "content": "Your car is constantly breaking down",
+              "key": "C"
+            },
+            {
+              "content": "Your car has a new set of tires",
+              "key": "D"
+            }
+          ],
+          "content": "What is a sign that it might be time to buy a new car?",
+          "type": "SingleChoice",
+          "uuid": "2242bb50-ab9d-4877-8fe0-bc84cdb1d575",
+          "explanation": "Constant breakdowns, reduced fuel efficiency, increased mileage, and lifestyle changes are signs that it might be time to buy a new car."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "It means your car is too fast",
+              "key": "A"
+            },
+            {
+              "content": "It could be a sign of a faulty fuel pump",
+              "key": "B"
+            },
+            {
+              "content": "It means your car is too slow",
+              "key": "C"
+            },
+            {
+              "content": "It means your car is too old",
+              "key": "D"
+            }
+          ],
+          "content": "Why might reduced fuel efficiency indicate that it's time for a new car?",
+          "type": "SingleChoice",
+          "uuid": "7855344b-110c-4fa0-9ce7-7d76a392fe7a",
+          "explanation": "Reduced fuel efficiency could indicate a faulty fuel pump. Newer car models generally have better fuel efficiency, so investing in a new car could save you money in the long run."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "You want a car with a different color",
+              "key": "A"
+            },
+            {
+              "content": "You want a car from a different manufacturer",
+              "key": "B"
+            },
+            {
+              "content": "You want a car with a bigger engine",
+              "key": "C"
+            },
+            {
+              "content": "Lifestyle changes",
+              "key": "D"
+            }
+          ],
+          "content": "What might prompt the need for a new car besides mechanical issues?",
+          "type": "SingleChoice",
+          "uuid": "447eaa3a-30ed-4038-9543-720d6d3d3200",
+          "explanation": "Lifestyle changes, such as moving, expanding your family, or needing a vehicle that better suits your changing circumstances, can prompt the need for a new car."
+        }
+      ],
       "uuid": "2015c10b-0d3c-485f-8613-4ef8dd31065f"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/empowerher-academy/Guide/cb865a6f_5ee1_404d_ab4f_5a0931d51811/1694011860189_undraw_city_driver_re_9xyv.png",
-  "uuid": "cb865a6f-5ee1-404d-ab4f-5a0931d51811",
+  "uuid": "car-maintenance-empowerher-academy-449",
   "version": 1
 }
