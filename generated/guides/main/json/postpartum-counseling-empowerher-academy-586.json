@@ -1,0 +1,221 @@
+{
+  "categories": [],
+  "content": "Guidance for New Moms: Navigating Postpartum Challenges",
+  "created": "2023-09-08T13:33:03.270Z",
+  "guideType": "onboarding",
+  "key": "postpartum-counseling-empowerher-academy-586",
+  "name": "Postpartum Counseling",
+  "publishStatus": "Live",
+  "steps": [
+    {
+      "content": "Baby blues and postpartum depression are two different conditions that can occur after giving birth. The baby blues typically last for a few days up to two weeks and are characterized by milder symptoms. During this time, new mothers may experience mood swings, feeling irritable, angry, or sad. They may also withdraw from loved ones, including their baby, and feel guilty or ashamed. Additionally, they may feel hopeless, sad, worthless, or alone all the time, and may cry often. It is common for new mothers with the baby blues to have difficulty eating, sleeping, or taking care of their baby due to overwhelming despair. They may also have a lack of appetite and neglect self-care due to exhaustion.\n\nOn the other hand, postpartum depression is a more severe and long-lasting condition. It is not a \"one size fits all\" illness, as symptoms can vary from person to person. Some common symptoms of postpartum depression include persistent feelings of sadness, anxiety, or emptiness. Mothers may also experience extreme mood swings, feeling irritable or angry for no apparent reason. They may have difficulty bonding with their baby and may withdraw from loved ones. Other symptoms include a loss of interest or pleasure in activities, changes in appetite and sleep patterns, and difficulty concentrating or making decisions. In severe cases, mothers with postpartum depression may have thoughts of harming themselves or their baby.\n\nIt is important to differentiate between the baby blues and postpartum depression because they require different levels of treatment. The baby blues usually resolve on their own within a couple of weeks, while postpartum depression does require professional help. If a new mother is experiencing symptoms of postpartum depression that are interfering with her ability to function and care for herself and her baby, it is crucial to seek appropriate treatment. This may include therapy, medication, support groups, or a combination of these approaches. It is important for new mothers to reach out for help and not suffer in silence, as postpartum depression is a treatable condition.\n\nIt is important for new mothers to be aware of the differences between the two and seek appropriate help if needed. Remember, you are not alone, and there is support available for those experiencing postpartum depression.",
+      "name": "Postpartum Depression",
+      "stepItems": [],
+      "uuid": "b4e225aa-b212-4174-b82c-4343c279257f"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "Baby blues are more severe than postpartum depression",
+              "key": "A"
+            },
+            {
+              "content": "There is no difference between baby blues and postpartum depression",
+              "key": "B"
+            },
+            {
+              "content": "Baby blues are milder and shorter in duration than postpartum depression",
+              "key": "C"
+            },
+            {
+              "content": "Postpartum depression resolves on its own, while baby blues require professional help",
+              "key": "D"
+            }
+          ],
+          "content": "What is the main difference between Baby Blues and Postpartum Depression?",
+          "type": "SingleChoice",
+          "uuid": "6595d7ec-8529-47e6-8530-14f0bc1fe85f",
+          "explanation": "Baby blues typically last for a few days up to two weeks with milder symptoms, while postpartum depression is a more severe and long-lasting condition."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Ignore the symptoms as they will go away on their own",
+              "key": "A"
+            },
+            {
+              "content": "Seek appropriate treatment such as therapy, medication, or support groups",
+              "key": "B"
+            },
+            {
+              "content": "Try to handle the situation alone without seeking any help",
+              "key": "C"
+            },
+            {
+              "content": "Wait for a few weeks to see if the symptoms persist",
+              "key": "D"
+            }
+          ],
+          "content": "What is the recommended course of action for a new mother experiencing symptoms of postpartum depression?",
+          "type": "SingleChoice",
+          "uuid": "873e3c33-64fb-48a2-baeb-15ee7ee61d40",
+          "explanation": "If a new mother is experiencing symptoms of postpartum depression that are interfering with her ability to function and care for herself and her baby, it is crucial to seek appropriate treatment such as therapy, medication, support groups, or a combination of these approaches."
+        }
+      ],
+      "uuid": "3fa9b96f-2211-40ef-8411-e094bc99659e"
+    },
+    {
+      "content": "Transitioning into parenthood is a significant life change that comes with a multitude of responsibilities. It is during this time that postpartum counseling becomes crucial. While preparing for the arrival of a baby, many new mothers tend to overlook their mental health and overall well-being. The societal expectations placed on postpartum women can be overwhelming and unrealistic. Therapy provides a safe and non-judgmental space for new mothers to express their feelings and navigate the challenges they face.\n\nCouples often struggle to adjust to the arrival of a new family member, leading to a decrease in relationship satisfaction. As a mother, you may feel burdened with the majority of the mental load of parenting, which can lead to resentment towards your partner. Postpartum counseling offers an unbiased third party who can listen and help you and your partner navigate these difficulties, ultimately strengthening your relationship.\n\nMotherhood brings about various changes and responsibilities, similar to taking on a new role or job. It is natural to need time to adjust and find balance. However, many mothers feel the pressure to \"do it all\" and downplay their own struggles. Counseling can help prioritize tasks and provide tools to achieve a better balance. Additionally, anxious thoughts are common among new mothers, and therapy can reassure them that these thoughts do not make them bad mothers.\n\nMotherhood can also trigger past traumas, leading to unexpected emotional responses. Counseling can help address these past experiences and ensure they do not hinder the present. Furthermore, the perfectionist and self-critical tendencies that some women experience in early motherhood can be addressed through therapy. It provides a space to advocate for oneself and develop self-compassion.\n\nThe postpartum period is a significant adjustment, and it is important to evaluate patterns, habits, and routines that may no longer serve you. Motherhood is challenging, and seeking counseling during this time can provide guidance and support. For mothers dealing with postpartum depression, counseling offers a listening ear without fear of judgment. It helps manage stress, recognize triggers, and develop coping mechanisms that can be beneficial beyond the counseling sessions.\n\nIn addition to individual benefits, counseling can also improve communication skills for mothers. It allows them to recognize stress and anxiety and ask for help from their support system. This, in turn, enriches relationships with partners, family, and the new baby. Asking for personal help can be difficult for mothers who feel guilty and believe they should be able to handle everything on their own. Therapy helps shed this guilt and emphasizes the importance of self-care.\n\nPostpartum depression can manifest not only as emotional distress but also as physical symptoms. Counseling takes into account both emotional and physical well-being and creates a personalized treatment plan. By addressing these symptoms, therapy can help mothers regain their overall health and well-being.",
+      "name": "Imp. of Postpartum Counseling",
+      "stepItems": [],
+      "uuid": "e19146af-4fcf-4e73-9c15-e6ae3889f4cc"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "C"
+          ],
+          "choices": [
+            {
+              "content": "It helps in physical recovery after childbirth",
+              "key": "A"
+            },
+            {
+              "content": "It provides tips for baby care",
+              "key": "B"
+            },
+            {
+              "content": "It provides emotional support and helps navigate challenges",
+              "key": "C"
+            },
+            {
+              "content": "It helps in planning for future pregnancies",
+              "key": "D"
+            }
+          ],
+          "content": "Why is postpartum counseling considered crucial?",
+          "type": "SingleChoice",
+          "uuid": "e7438d9d-41ad-4082-8a37-45461b4c5705",
+          "explanation": "Postpartum counseling is crucial as it provides a safe and non-judgmental space for new mothers to express their feelings and navigate the challenges they face. It helps manage stress, recognize triggers, and develop coping mechanisms. It also improves communication skills and emphasizes the importance of self-care."
+        },
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "It helps in dividing household chores",
+              "key": "A"
+            },
+            {
+              "content": "It helps navigate difficulties and strengthens the relationship",
+              "key": "B"
+            },
+            {
+              "content": "It helps plan for future children",
+              "key": "C"
+            },
+            {
+              "content": "It provides financial advice for raising a child",
+              "key": "D"
+            }
+          ],
+          "content": "How can postpartum counseling benefit the relationship between couples?",
+          "type": "SingleChoice",
+          "uuid": "744b4664-e5db-47c0-8b69-6e7786b614d7",
+          "explanation": "Postpartum counseling offers an unbiased third party who can listen and help couples navigate difficulties that arise with the arrival of a new family member, ultimately strengthening their relationship."
+        }
+      ],
+      "uuid": "bfd5583b-f919-46f4-8055-804ce57a83e5"
+    },
+    {
+      "content": "In the midst of life's many transitions, finding the right support can make all the difference. Whether you're a new mom navigating the complex emotions of postpartum depression or simply seeking guidance and connection, there are several resources available to you, some of which are:\n\n### Talkspace\n\nTalkspace is an online therapy service that provides access to therapists through a user-friendly app. After a quick assessment, individuals are matched with a therapist who specializes in their specific needs, such as postpartum depression. The app allows users to message their therapist directly and receive responses five days a week. This 24/7 accessibility is especially beneficial for busy new parents or those experiencing challenging symptoms.\n\n### Brightside\n\nBrightside offers a comprehensive online therapy subscription that combines one-on-one therapy with licensed professionals, self-guided sessions, and personalized progress tracking. With their therapy plan, users can enjoy unlimited messaging and four monthly video sessions with a therapist. Additional video sessions can be purchased for a reasonable fee. Brightside also provides a medication service that connects individuals with psychiatrists who can prescribe medication if necessary. By signing up for Brightside's Therapy and Medication plan, users can access both services conveniently.\n\n### 7 Cups\n\n7 Cups is an online platform that offers 24/7 support for individuals seeking therapy, regardless of their financial situation. Peer-to-peer support is available to all, and volunteer listeners help moderate discussions on various topics, including postpartum depression. The platform provides private chat rooms and supportive message boards, allowing users to connect with others who are experiencing similar challenges. Licensed therapists are also available for those who sign up for the additional service.\n\n### Chilliwack Midwifery\n\nFor individuals seeking in-person support, family physicians and midwives can provide comprehensive care during the postpartum period. These healthcare professionals manage care for both the mother and newborn from pregnancy to six weeks postpartum. They offer guidance, support, and medical assistance during this critical time. After six weeks, individuals are transitioned back to the care of their family doctor.\n\n### New Moms Support Group\n\nThe New Moms Support Group, formerly known as Moms on the Move, is a weekly gathering that offers social interaction, support, and practical information for new mothers. This group provides a safe space for new moms to meet and connect with others who are going through similar experiences. It allows participants to learn from each other's experiences, share their own adventures, and gather helpful information to assist them in their parenting journey. This support group can be a valuable resource for new mothers who may be experiencing postpartum depression or other challenges.\n\n### Moms Supporting Moms \n\nThis group offers valuable support and guidance to expectant and postpartum mothers, along with their partners and families. Their program includes a mentoring program, weekly support groups, social chats, and community meetups, ensuring a strong support network for all participants. Additionally, they provide referrals to community resources and specialized therapists, promoting holistic well-being during the transformative journey of parenthood.",
+      "name": "Resources & Support Groups",
+      "stepItems": [],
+      "uuid": "c73c921b-e725-424f-9692-257e0ef129c2"
+    },
+    {
+      "content": "Remember, taking care of yourself is essential, and by prioritizing self-care, you can be a happier and healthier mom. Incorporating these self-care practices into your routine can have a significant impact on your overall well-being:\n\n### Taking a Walk\n\nTaking a walk, whether it's a short stroll or a longer escape, can have a significant impact on your mental health. It provides an opportunity to get some fresh air, change your surroundings, and engage in physical activity. Research suggests that even a five-minute walk can help reduce anxiety, depression, insomnia, stress, and fatigue. So, make it a point to take a walk during your lunch break or whenever you can spare a few minutes.\n\n### Meditation\n\nMeditation is another self-care practice that can bring numerous benefits to moms. It helps in reducing anxiety, depression, insomnia, stress, and fatigue. You can find free meditation clips on platforms like YouTube or use meditation apps like Expectful, Headspace, Calm, or the Mindfulness App. These apps offer guided meditations that can help you relax and find inner peace.\n\n### Pampering\n\nPampering yourself is an essential aspect of self-care. Take a few extra minutes to indulge in activities that help you relax and de-stress. You can try using a sheet mask, giving yourself a home pedicure, or any other self-care activity that brings you joy. Combine this pampering session with a comforting TV show and a cup of tea, and you'll feel rejuvenated.\n\n### Connect with Loved Ones\n\nSpending time with loved ones and sharing your life experiences can be incredibly uplifting. It's remarkable how much lighter you can feel after catching up with family or friends. Take the time to connect with your loved ones, whether it's through phone calls, video chats, or meeting in person. Sharing your thoughts and hearing about their lives can provide a sense of support and fulfillment.\n\n### Journaling=\n\nWriting down your thoughts and feelings can be a powerful self-care practice. It helps you check in with yourself, process overwhelming emotions, and gain clarity. If you're unsure where to start, you can search for guided journals or wellness journals that provide prompts for writing. Alternatively, you can simply jot down your feelings on your phone's notepad. Even taking a few seconds to do this can make a difference.\n\n### Exercise\n\nExercise is not only beneficial for your physical health but also for your mental well-being. Engaging in physical activity improves sleep quality and reduces feelings of anxiety. Even a short dance workout, a jog around the block, or some restorative yoga stretches before bed can have a positive impact on your overall well-being. So, make it a point to incorporate exercise into your self-care routine.\n\n### Pursue a Hobby\n\nHaving a hobby that you're passionate about is a great way to make time for yourself. Whether it's music, fitness, cooking, or any other interest, dedicating time to pursue your hobby can bring joy and relaxation. Explore new artists, learn to play an instrument, join free fitness classes in a nearby park, or plan an afternoon to cook your favorite comfort food. Engaging in activities that bring you happiness is an essential part of self-care.\n\n### Prioritize Rest and Sleep\n\nRest and sleep are crucial for your overall well-being, especially for moms. It's important to give yourself permission to rest when you need it. Instead of using your little one's nap time to tackle your to-do list, take that time to recharge and relax. After giving birth, many moms find sleep and rest to be the most important self-care activity. So, prioritize rest and ensure you're getting enough sleep to take care of yourself.",
+      "name": "Self-Care Practices",
+      "stepItems": [],
+      "uuid": "a692cfe7-4047-4e31-9ff3-c019fea3c157"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "B"
+          ],
+          "choices": [
+            {
+              "content": "Watching TV",
+              "key": "A"
+            },
+            {
+              "content": "Taking a walk or meditation",
+              "key": "B"
+            },
+            {
+              "content": "Shopping",
+              "key": "C"
+            },
+            {
+              "content": "Cooking",
+              "key": "D"
+            }
+          ],
+          "content": "Which self-care practice can help reduce anxiety, depression, insomnia, stress, and fatigue?",
+          "type": "SingleChoice",
+          "uuid": "1c6fdb39-3d4e-4f04-86d0-118864c8bce8",
+          "explanation": "Both taking a walk and meditation are mentioned in the text as self-care practices that can help reduce anxiety, depression, insomnia, stress, and fatigue."
+        },
+        {
+          "answerKeys": [
+            "D"
+          ],
+          "choices": [
+            {
+              "content": "Exercising",
+              "key": "A"
+            },
+            {
+              "content": "Pampering",
+              "key": "B"
+            },
+            {
+              "content": "Connecting with loved ones",
+              "key": "C"
+            },
+            {
+              "content": "Journaling",
+              "key": "D"
+            }
+          ],
+          "content": "What is suggested as a self-care practice to process overwhelming emotions and gain clarity?",
+          "type": "SingleChoice",
+          "uuid": "de899513-90f8-472f-8ecd-5f7b190867d1",
+          "explanation": "The text suggests journaling as a self-care practice to process overwhelming emotions and gain clarity."
+        }
+      ],
+      "uuid": "8d22f348-ec7e-452c-bf33-26b8c02c2609"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/empowerher-academy/Guide/ebf83693_c07a_4036_af3b_2963718c2836/1694177005032_undraw_buddies_2ae5.png",
+  "uuid": "ebf83693-c07a-4036-af3b-2963718c2836",
+  "version": 1
+}
